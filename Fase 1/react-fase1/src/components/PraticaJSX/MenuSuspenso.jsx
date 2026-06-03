@@ -1,4 +1,4 @@
-function obterMenuSuspenso() {
+function ObterMenuSuspenso() {
 
   return ( <ul id="menu-suspenso" className="suspenso">
       <li>Perfil</li>
@@ -9,4 +9,4 @@ function obterMenuSuspenso() {
  
 }
 
-export default obterMenuSuspenso;
+export default ObterMenuSuspenso;

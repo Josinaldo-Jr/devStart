@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css'
 import ExpressoesJSX from './pages/ExpressoesJSX';
 import PraticaJSX from './pages/PraticaJSX';
+import Componentes from './pages/Componentes';
 
 
 
@@ -16,6 +17,8 @@ function App() {
       <ExpressoesJSX />  
       <hr />   
       <PraticaJSX />
+      <hr />
+      <Componentes />
     </div>
   );
 }

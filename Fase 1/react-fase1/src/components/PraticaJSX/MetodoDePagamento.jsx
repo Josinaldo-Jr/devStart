@@ -1,4 +1,4 @@
-function obterMetodosDePagamento() {
+function ObterMetodosDePagamento() {
 
   return (<select className="metodos-de-pagamento">
   <option className="metodos-de-pagamento">Cartao</option>
@@ -9,4 +9,4 @@ function obterMetodosDePagamento() {
  
 }
 
-export default obterMetodosDePagamento;
+export default ObterMetodosDePagamento;

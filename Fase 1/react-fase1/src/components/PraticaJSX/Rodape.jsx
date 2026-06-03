@@ -1,4 +1,4 @@
-function obterRodape() {
+function Rodape() {
 
   return (
     <>
@@ -14,4 +14,4 @@ function obterRodape() {
   
 }
  
-export default obterRodape;
+export default Rodape;
