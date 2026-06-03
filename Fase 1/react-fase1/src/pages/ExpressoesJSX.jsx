@@ -1,7 +1,7 @@
-import Notificacoes from "../components/Notificacoes";
-import BarraDeNavegacao from "../components/BarraDeNavegacao";
-import BotaoDePagamento from "../components/BotaoDePagamento";
-import MetodoDePagamento from "../components/MetodoDePagamento";
+import Notificacoes from "../components/ExpressoesJSX/Notificacoes";
+import BarraDeNavegacao from "../components/ExpressoesJSX/BarraDeNavegacao";
+import BotaoDePagamento from "../components/ExpressoesJSX/BotaoDePagamento";
+import MetodoDePagamento from "../components/ExpressoesJSX/MetodoDePagamento";
 
 function ExpressoesJSX() {
   const notificacoes = [
