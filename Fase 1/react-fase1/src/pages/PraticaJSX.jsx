@@ -1,4 +1,3 @@
-
 import MetodoDePagamento from "../components/praticaJSX/MetodoDePagamento";
 import ObterMenuSuspenso from "../components/praticaJSX/MenuSuspenso";
 import AvatarDoUsuario from "../components/PraticaJSX/AvatarDoUsuario";

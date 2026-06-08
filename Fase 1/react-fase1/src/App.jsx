@@ -1,10 +1,11 @@
 import React from 'react';
-import './App.css'
+import './App.css';
 import ExpressoesJSX from './pages/ExpressoesJSX';
 import PraticaJSX from './pages/PraticaJSX';
 import Componentes from './pages/Componentes';
 import PraticaProps from './pages/Props';
-
+import KitUI from './pages/KitUI';
+import './components/KitUI/style.css';
 
 
 // ------------------- //
@@ -22,6 +23,9 @@ function App() {
       <Componentes />
       <hr />
       <PraticaProps />
+      <hr />
+      <KitUI />
+      <hr />
     </div>
   );
 }

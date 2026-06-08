@@ -1,10 +1,13 @@
 function MetodoDePagamento({ nome }) {
-  return (
+  return (<>
+  <ul>
     <li
       className={`metodo-de-pagamento opcao-${nome.toLowerCase()}`}
     >
       {nome}
     </li>
+  </ul>
+    </>
   );
 }
 
