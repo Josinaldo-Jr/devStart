@@ -2,7 +2,7 @@ function Heroi () {
 
   return (
     <>
-    <h1> Bem-vindo ao nosso supermercado </h1>
+    <h3> Bem-vindo ao nosso supermercado </h3>
     <p> Comece as compras </p>
     </>
   );
