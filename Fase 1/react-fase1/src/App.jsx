@@ -6,7 +6,7 @@ import Componentes from './pages/Componentes';
 import PraticaProps from './pages/Props';
 import KitUI from './pages/KitUI';
 import './components/KitUI/style.css';
-
+import FuncoesPuras from './pages/FuncoesPuras';
 
 // ------------------- //
 function App() {
@@ -25,6 +25,8 @@ function App() {
       <PraticaProps />
       <hr />
       <KitUI />
+      <hr />
+      <FuncoesPuras />
       <hr />
     </div>
   );
