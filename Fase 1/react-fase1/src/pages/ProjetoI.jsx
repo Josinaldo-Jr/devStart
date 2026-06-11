@@ -1,10 +1,10 @@
 import { Botao, Container, Input, Link } from "../components/KitUI/ProjetoUI";
 
-function KitUI() {
+function ProjetoI() {
 
   return (
     <>
-      <h2>9-Kit UI:</h2>
+      <h2>9-Projeto I:</h2>
       <Container>
         <h3>Exemplo de Container</h3>
         <Input placeholder="Digite seu nome" nome="nome" />
@@ -19,4 +19,4 @@ function KitUI() {
   );
 }
 
-export default KitUI;
+export default ProjetoI;

@@ -4,10 +4,11 @@ import ExpressoesJSX from './pages/ExpressoesJSX';
 import PraticaJSX from './pages/PraticaJSX';
 import Componentes from './pages/Componentes';
 import PraticaProps from './pages/Props';
-import KitUI from './pages/KitUI';
+import ProjetoI from './pages/ProjetoI';
 import './components/KitUI/style.css';
 import FuncoesPuras from './pages/FuncoesPuras';
 import JSXAvancado from './pages/JSXAvancado';
+import ProjetoII from './pages/ProjetoII';
 
 // ------------------- //
 function App() {
@@ -25,11 +26,13 @@ function App() {
       <hr />
       <PraticaProps />
       <hr />
-      <KitUI />
+      <ProjetoI />
       <hr />
       <FuncoesPuras />
       <hr />
       <JSXAvancado />
+      <hr />
+      <ProjetoII />
       <hr />
     </div>
   );
