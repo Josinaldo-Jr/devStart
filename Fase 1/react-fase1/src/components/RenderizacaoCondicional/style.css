@@ -1,0 +1,14 @@
+.barra-de-navegacao2 {
+    padding: 20px;
+    border-radius: 3px;
+}
+
+.escuro {
+    background-color: #222;
+    color: white;
+}
+
+.claro {
+    background-color: white;
+    color: #222;
+}

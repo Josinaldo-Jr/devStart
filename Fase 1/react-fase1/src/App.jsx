@@ -7,6 +7,7 @@ import PraticaProps from './pages/Props';
 import KitUI from './pages/KitUI';
 import './components/KitUI/style.css';
 import FuncoesPuras from './pages/FuncoesPuras';
+import JSXAvancado from './pages/JSXAvancado';
 
 // ------------------- //
 function App() {
@@ -27,6 +28,8 @@ function App() {
       <KitUI />
       <hr />
       <FuncoesPuras />
+      <hr />
+      <JSXAvancado />
       <hr />
     </div>
   );
