@@ -9,6 +9,7 @@ import './components/KitUI/style.css';
 import FuncoesPuras from './pages/FuncoesPuras';
 import JSXAvancado from './pages/JSXAvancado';
 import ProjetoII from './pages/ProjetoII';
+import DesestruturacaoDeMatrizes from './pages/DesestruturacaoDeMatrizes';
 
 // ------------------- //
 function App() {
@@ -33,6 +34,8 @@ function App() {
       <JSXAvancado />
       <hr />
       <ProjetoII />
+      <hr />
+      <DesestruturacaoDeMatrizes />
       <hr />
     </div>
   );

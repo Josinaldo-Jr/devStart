@@ -16,7 +16,7 @@ function Container({ className = "", children, ...rest }) {
  
 }
  
-function Input({ className = "", type = "text", children, ...rest }) {
+function Input({ className = "", type = "text", ...rest }) {
 
     const classes = `ui-textfield ${className}`.trim();
     return (
