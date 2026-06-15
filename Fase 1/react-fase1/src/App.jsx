@@ -10,6 +10,7 @@ import FuncoesPuras from './pages/FuncoesPuras';
 import JSXAvancado from './pages/JSXAvancado';
 import ProjetoII from './pages/ProjetoII';
 import DesestruturacaoDeMatrizes from './pages/DesestruturacaoDeMatrizes';
+import StateComHooks from './pages/StateComHooks';
 
 // ------------------- //
 function App() {
@@ -37,6 +38,7 @@ function App() {
       <hr />
       <DesestruturacaoDeMatrizes />
       <hr />
+      <StateComHooks />
     </div>
   );
 }
