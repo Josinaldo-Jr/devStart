@@ -5,12 +5,9 @@ function StateComHooks() {
 
   return (
     <>
-      <h2>14-Props:</h2>
+      <h2>14-States com Hooks / 15-Mudança do State:</h2>      
       <Contador />
-      <Contagem />
-
-       
-       
+      <Contagem />          
     </>
   );
 }
