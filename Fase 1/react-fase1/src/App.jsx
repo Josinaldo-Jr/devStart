@@ -12,6 +12,7 @@ import ProjetoII from './pages/ProjetoII';
 import DesestruturacaoDeMatrizes from './pages/DesestruturacaoDeMatrizes';
 import StateComHooks from './pages/StateComHooks';
 import Closures from './pages/Closures';
+import Events from './pages/Events';
 
 // ------------------- //
 function App() {
@@ -42,6 +43,8 @@ function App() {
       <StateComHooks />
       <hr />
       <Closures />
+      <hr />
+      <Events />
     </div>
   );
 }
