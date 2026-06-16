@@ -11,6 +11,7 @@ import JSXAvancado from './pages/JSXAvancado';
 import ProjetoII from './pages/ProjetoII';
 import DesestruturacaoDeMatrizes from './pages/DesestruturacaoDeMatrizes';
 import StateComHooks from './pages/StateComHooks';
+import Closures from './pages/Closures';
 
 // ------------------- //
 function App() {
@@ -39,6 +40,8 @@ function App() {
       <DesestruturacaoDeMatrizes />
       <hr />
       <StateComHooks />
+      <hr />
+      <Closures />
     </div>
   );
 }
