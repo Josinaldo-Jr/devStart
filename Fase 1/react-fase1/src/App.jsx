@@ -13,6 +13,7 @@ import DesestruturacaoDeMatrizes from './pages/DesestruturacaoDeMatrizes';
 import StateComHooks from './pages/StateComHooks';
 import Closures from './pages/Closures';
 import Events from './pages/Events';
+import MudancaDeEstadoCondicional from './pages/MudancaDeEstadoCondicional';
 
 // ------------------- //
 function App() {
@@ -45,6 +46,8 @@ function App() {
       <Closures />
       <hr />
       <Events />
+      <hr />
+      <MudancaDeEstadoCondicional />
     </div>
   );
 }
