@@ -14,6 +14,7 @@ import StateComHooks from './pages/StateComHooks';
 import Closures from './pages/Closures';
 import Events from './pages/Events';
 import MudancaDeEstadoCondicional from './pages/MudancaDeEstadoCondicional';
+import RenderizacaoCondicional from './pages/RenderizacaoCondicional';
 
 // ------------------- //
 function App() {
@@ -48,6 +49,8 @@ function App() {
       <Events />
       <hr />
       <MudancaDeEstadoCondicional />
+      <hr />
+      <RenderizacaoCondicional />
     </div>
   );
 }
