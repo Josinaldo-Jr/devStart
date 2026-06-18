@@ -15,6 +15,7 @@ import Closures from './pages/Closures';
 import Events from './pages/Events';
 import MudancaDeEstadoCondicional from './pages/MudancaDeEstadoCondicional';
 import RenderizacaoCondicional from './pages/RenderizacaoCondicional';
+import ProjetoIII from './pages/ProjetoIII';
 
 // ------------------- //
 function App() {
@@ -51,6 +52,8 @@ function App() {
       <MudancaDeEstadoCondicional />
       <hr />
       <RenderizacaoCondicional />
+      <hr />
+      <ProjetoIII />
     </div>
   );
 }
