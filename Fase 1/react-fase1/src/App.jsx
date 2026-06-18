@@ -16,6 +16,7 @@ import Events from './pages/Events';
 import MudancaDeEstadoCondicional from './pages/MudancaDeEstadoCondicional';
 import RenderizacaoCondicional from './pages/RenderizacaoCondicional';
 import ProjetoIII from './pages/ProjetoIII';
+import MultiplosStates from './pages/MultiplosStates';
 
 // ------------------- //
 function App() {
@@ -54,6 +55,8 @@ function App() {
       <RenderizacaoCondicional />
       <hr />
       <ProjetoIII />
+      <hr />
+      <MultiplosStates />
     </div>
   );
 }
